@@ -1,4 +1,3 @@
-
 ## Terraform
 This guide provides a detailed and comprehensive understanding of Terraform concepts, features, and integration with GitLab. It is designed to cover essential to advanced topics, including examples and explanations for each concept.
 
