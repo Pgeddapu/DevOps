@@ -1,11 +1,8 @@
 
-
-
 # ANSIBLE
 
 Ansible is a powerful open-source IT automation tool that automates tasks such as configuration management, application deployment, task automation, and multi-node orchestration. 
 It is particularly favored for its simplicity and ease of use compared to other tools like Puppet, Chef, or SaltStack.
-
 
 ### 1. What is Ansible?
 
